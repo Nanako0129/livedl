@@ -69,7 +69,7 @@ func loadNicoFinder() (data nicoFinder) {
 	return
 }
 
-var limit = "2019/01/20 23:59:59 JST"
+var limit = "2029/01/20 23:59:59 JST"
 
 const layout = "2006/01/02 15:04:05 MST"
 
